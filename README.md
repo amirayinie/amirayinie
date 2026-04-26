@@ -1,65 +1,76 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5icm1rNmVzaTMxeTE2eW9tYjJ3OGFuMHhxbnFjbndmZTdteWNsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nR4f2N4SOARyM/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5icm1rNmVzaTMxeTE2eW9tYjJ3OGFuMHhxbnFjbndmZTdteWNsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nR4f2N4SOARyM/giphy.gif" />
 </div>
 
-###
+<h1 align="center"> Amirhosein Ayinie </h1>
+<h3 align="center">Backend Developer | Laravel based Scalable Systems</h3>
+
+---
+
+
+## 👨‍💻 About Me
+
+- 🎯 Backend Developer focused on **Laravel & PHP ecosystem**
+- ⚙️ Experienced in building **scalable APIs, real-time systems, and backend architectures**
+- 🚀 Passionate about **clean code, performance optimization, and system design**
+- 📚 Currently improving **advanced backend concepts , system architecture and design patterns**
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,redis" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,bitbucket" />
+</p>
+
+---
+
+## 💼 Experience & Projects
+
+- 📰 **News CMS (From Scratch)**
+  - Designed and developed a fully-featured **content management system**
+  - Implemented **RESTful APIs, authentication, role/permission system**
+  - Optimized performance using **Redis caching & query optimization**
+  - Built scalable architecture for handling high-volume content
+
+- 🤖 **AI-based Applications (Web & Mobile Backend)**
+  - Developed backend systems for **AI-driven applications**
+  - Integrated external AI services and APIs
+  - Designed **scalable APIs** for real-time and asynchronous processing
+  - Focused on performance, clean architecture, and maintainability
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=amirayinie&theme=dark&hide_border=false" />
+</div>
+
+---
+
+## 📫 Contact Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/amirhosein-ayinie-9367a9378" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
-  <a href="ayinie2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+
+  <a href="mailto:ayinie2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
   </a>
-  <a href="t.me/spideyguyy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+
+  <a href="https://t.me/spideyguyy" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
   </a>
 </div>
 
-###
+---
 
-<h1 align="center">Hello there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Amirhosein , a passionate backend developer , focusing on designing and developing back end systems</p>
-
-###
-
-<h3 align="left">🛠 Language and tools :</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amirayinie&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+⭐ *Always open to collaboration and backend challenges*
